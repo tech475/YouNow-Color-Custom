@@ -1,7 +1,7 @@
 These user script might be helpful. Tampermonkey Extenstion for Chrome is required
 and edit color for hex color choose
 the step 1 : go to the website www.photopea.com and create project don't maybe height and weight the important is create project
-and choose a color , and copy code hexadecimal and the code hexadecimal capital for edit and copy and paste the code extenstion tampermonkey for code
+and choose a color , and copy code hexadecimal and the code hexadecimal capital letters for edit and copy and paste the code extenstion tampermonkey for code
 ![Capture](https://github.com/tech475/younowcolorcustom/assets/71052219/74924a7b-7cb0-4e4c-800a-ba6f24db1d78)
 ![1](https://github.com/tech475/younowcolorcustom/assets/71052219/9aaa8743-5b81-4030-a678-b35671fe81e3)
 ![2](https://github.com/tech475/younowcolorcustom/assets/71052219/b50437fa-f1c7-4e44-965e-37dd831723ef)
